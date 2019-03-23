@@ -1,0 +1,29 @@
+{
+  "name": "proyecto_grupal",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19",
+    "morgan": "^1.9.1",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.18.10",
+    "parser": "^0.1.4",
+    "path": "^0.12.7",
+    "serve": "^10.1.2",
+    "serve-static": "^1.13.2",
+    "static": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
